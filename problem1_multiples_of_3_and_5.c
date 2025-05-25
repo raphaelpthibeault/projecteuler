@@ -6,7 +6,7 @@
  * Find the sum of all the multiples of 3 or 5 below some N (N=1000 in link)
  * */
 
-uint64_t
+int
 main(int argc, char *argv[])
 {
 	size_t N, num_threes, num_fives, num_fifteens, answer;
